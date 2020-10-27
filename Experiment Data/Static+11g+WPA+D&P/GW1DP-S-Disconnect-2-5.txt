@@ -1,0 +1,286 @@
+<<< log_count = 95 >>>
+[09-12 13:06:27.086 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:06:32.719 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:06:38.273 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:06:45.302 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:06:50.572 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:06:56.128 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:07:01.877 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:07:09.358 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:07:14.937 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:07:17.141 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:07:31.660 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:07:38.704 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:07:45.406 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:08:05.021 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:08:06.699 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:08:23.279 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:08:29.562 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:08:40.187 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:08:45.760 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:08:49.110 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:09:02.516 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:09:09.988 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:09:15.578 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:09:21.115 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:09:57.411 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:10:01.700 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:10:14.164 495:495 I/rmt_storage]
+rmt_storage_disconnect_cb: clnt_h=0x17 conn_h=0x7f8d17a000
+
+[09-12 13:10:19.282 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:10:29.019 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:10:32.329 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:10:45.688 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:10:51.207 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:10:54.335 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:11:08.040 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:11:13.696 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:11:23.285 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:11:28.836 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:11:51.096 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:11:57.766 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:12:03.339 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:12:09.010 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:12:17.189 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:12:22.766 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:12:30.082 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:12:43.945 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:12:58.579 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:13:06.965 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:13:12.528 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:13:18.072 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:13:34.298 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:13:38.680 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:13:52.447 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:13:58.160 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:14:04.831 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:14:10.439 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:14:16.093 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:14:22.799 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:14:28.338 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:14:35.836 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:14:56.001 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:15:01.625 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:15:07.178 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:15:19.460 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:15:25.135 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:15:37.336 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:15:42.887 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:15:49.357 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:15:54.929 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:16:00.540 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:16:22.853 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:16:31.081 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:16:36.645 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:16:42.361 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:16:49.830 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:16:56.544 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:17:02.371 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:17:08.068 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:17:13.659 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:17:20.707 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:17:26.296 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:17:31.818 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:17:38.937 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:17:58.912 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:18:00.637 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:18:33.500 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:18:39.171 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:18:42.403 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:18:56.039 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:19:01.567 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:19:11.153 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:19:22.648 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:19:36.518 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:19:41.907 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:19:49.362 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
+[09-12 13:19:55.254 2388:2388 I/wpa_supplicant]
+wlan0: CTRL-EVENT-DISCONNECTED bssid=d8:47:32:bf:a3:0c reason=7
+
