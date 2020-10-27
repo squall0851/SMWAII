@@ -1,0 +1,1688 @@
+09/17/2020+13:53:08.683924941
+[0m13:53:08  Created capture file "GW1E-S-P5.2-01.cap".
+[?25l[2J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -63   0        5        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     0        2                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -59   0        6        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     0        2                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -59   0        6        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0        3                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -56   0        7        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0        3                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -55   0        8        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0        3                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -55   0        8        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0        3                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -61 100        9        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0        3                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -58 100       10        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0        3                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -58 100       10        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0        3                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54 100       11        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0        3                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54 100       12        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0        3                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54 100       12        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0        3                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54 100       13        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0        3                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54 100       14        2    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0        3                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -52 100       14        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -51   54e- 6e     1        6                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53 100       15        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -51   54e- 6e     1        6                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53 100       16        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -51   54e- 6e     1        6                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53 100       16        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     1        7                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53 100       17        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     1        7                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50 100       18        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     1        7                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50 100       18        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     1        7                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50 100       19        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     1        7                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50 100       20        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     1        7                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50 100       20        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     1        7                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50 100       21        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     1        7                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50 100       22        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     1        7                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50 100       22        4    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     1        7                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -45 100       23        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     2       10                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       24        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     2       10                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       24        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     2       10                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       25        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2       11                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       26        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2       11                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       26        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2       11                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       26        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2       11                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       26        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2       11                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -48 100       27        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2       11                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       28        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2       11                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       28        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2       11                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       29        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2       11                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       29        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2       11                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       29        6    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2       11                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       30        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -47   54e- 6e     2       13                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49 100       30        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -47   54e- 6e     2       13                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  89       31        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -47   54e- 6e     2       13                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       32        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       32        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       32        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       32        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       32        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       33        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       34        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       34        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  89       35        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  89       35        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  89       35        8    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -61  89       36        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -61  89       36        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -58  89       37        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     2       14                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89       38        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     4       15                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89       38        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     4       15                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89       38        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     4       15                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89       38        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     4       15                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89       38        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     4       15                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89       39        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     4       15                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89       40        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     4       15                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89       40        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     4       15                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89       41        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     4       15                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89       41        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     4       15                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89       41        8    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     4       15                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -52  89       42        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       19                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -52  89       42        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       19                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       43        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       19                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       44        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       20                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       44        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       20                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       44        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       20                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89       44        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       20                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       45        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       20                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       46        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       20                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       46        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       20                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       47        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       20                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       47        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       20                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 0 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       47        9    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     5       20                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       47       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     5       21                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       48       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     5       21                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       48       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     5       21                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       49       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     5       22                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       50       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     5       22                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       50       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     5       22                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       50       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     5       22                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       50       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     5       22                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       51       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     5       22                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       52       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     5       22                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       52       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     5       22                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       53       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     5       22                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       53       10    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     5       22                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       53       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       53       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89       53       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       54       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       54       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       54       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       54       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       54       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       55       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -57  56       56       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -57  56       56       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -57  56       57       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -57  56       57       11    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     6       24                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -46  56       58       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       28                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       59       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       28                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       59       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       60       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       61       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       61       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       61       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       62       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       62       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  56       63       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  56       64       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  56       64       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       65       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       66       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       66       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     6       29                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       67       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     7       30                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       68       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     7       30                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       68       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     7       30                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -52  56       69       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     7       31                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       70       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     7       31                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       70       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     7       31                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       71       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     7       31                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       72       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     7       31                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       72       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     7       31                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       73       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     7       31                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       74       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     7       31                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       74       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     7       31                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       75       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     7       31                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       12    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     7       31                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       16    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   54e- 1e     8       69                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       19    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 6e     8      159                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       21    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -48   54e- 6e     8      161                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       24    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     8      164                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       30    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     0      170                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       30    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     0      170                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       30    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     0      170                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       30    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     0      170                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       30    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     0      170                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       30    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     0      170                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       30    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     0      170                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       30    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     0      170                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       30    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -49   54e- 6e     0      170                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       30    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     0      204                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       30    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     0      204                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       34    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   54e- 6e     0      208                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       34    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   54e- 6e     0      208                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       34    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   54e- 6e     0      208                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       34    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   54e- 6e     0      208                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       34    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   54e- 6e     0      208                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       34    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   54e- 6e     0      208                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       34    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   54e- 6e     0      208                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       34    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   54e- 6e     0      208                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       34    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   54e- 6e     0      208                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       34    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   54e- 6e     0      208                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 6 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       76       34    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   54e- 6e     0      208                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  56       77       34    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   54e- 6e     0      208                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -44  56       77       36    3   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     0      211                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  56       78       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     0      211                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -57  56       79       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     0      211                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -57  56       79       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     0      211                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -46  56       80       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   54e- 1e     0      212                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  43       81       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   54e- 1e     0      212                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  43       81       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   54e- 1e     0      212                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  43       82       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   54e- 1e     0      212                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  43       83       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   54e- 1e     0      212                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  43       83       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   54e- 1e     0      212                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  43       84       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   54e- 1e     0      212                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -52  43       85       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   54e- 1e     0      212                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -52  43       85       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   54e- 1e     0      212                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -52  43       86       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   54e- 1e     0      212                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -57  43       87       36    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   54e- 1e     0      212                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -56  43       87       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     1      214                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -57  43       88       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     1      214                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -57  43       88       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      215                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -57  43       88       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      215                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  43       89       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      215                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  43       89       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      215                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  43       90       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      215                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  43       91       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      215                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  43       91       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      215                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  43       92       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      215                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  43       93       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      215                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  43       93       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      215                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -57  43       94       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      215                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -57  43       95       37    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      215                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  43       95       39    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     1      217                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  43       96       39    8   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     1      217                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  43       97       39    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     1      217                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  43       97       39    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      218                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  43       98       39    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      218                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -52  43       99       39    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      218                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -52  43       99       39    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      218                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  43      100       39    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      218                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  43      101       39    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      218                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  43      101       39    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      218                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  43      102       39    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      218                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  43      103       39    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      218                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  43      103       39    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      218                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  92      104       39    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     1      218                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  92      105       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -57   54e- 6e     2      221                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  92      105       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -57   54e- 6e     2      221                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  92      106       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -57   54e- 6e     2      221                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  92      107       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -62   54e- 1e     2      222                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  92      107       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -62   54e- 1e     2      222                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  92      108       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -62   54e- 1e     2      222                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  92      109       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -62   54e- 1e     2      222                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  92      109       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -62   54e- 1e     2      222                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  92      110       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -62   54e- 1e     2      222                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  92      111       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -62   54e- 1e     2      222                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  92      111       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -62   54e- 1e     2      222                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  92      112       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -62   54e- 1e     2      222                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -55  92      113       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -62   54e- 1e     2      222                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -55  92      113       41    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -62   54e- 1e     2      222                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -58  92      114       43    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   24e- 1e     3      225                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -56  92      115       44    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -56  92      115       44    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      116       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      117       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      117       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      118       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      119       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      119       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      120       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      121       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      121       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      122       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      123       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      123       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      124       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      125       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  92      125       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -53   24e- 6e     3      226                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  92      125       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   24e- 1e     3      227                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  92      126       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   24e- 1e     3      227                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  92      126       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   24e- 1e     3      227                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  92      127       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   24e- 1e     3      227                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89      127       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   24e- 1e     3      227                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -55  89      128       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   24e- 1e     3      227                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89      129       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   24e- 1e     3      227                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89      129       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   24e- 1e     3      227                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 12 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -91  89      130       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   24e- 1e     3      227                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -56  89      131       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   24e- 1e     3      227                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -56  89      131       44    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -52   24e- 1e     3      227                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -55  89      132       46    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -51   54e- 6e     4      230                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -93  89      133       46    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -51   54e- 6e     4      230                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -93  89      133       46    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -51   54e- 6e     4      230                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -58  89      134       46    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      231                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -58  89      135       46    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      231                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -58  89      135       46    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      231                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -59  89      136       46    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      231                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -58  89      137       46    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      231                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -58  89      137       46    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      231                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -58  89      138       46    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      231                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -58  89      139       46    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      231                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -58  89      139       46    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      231                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89      140       46    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      231                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89      141       46    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      231                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -54  89      141       46    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      231                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  89      142       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     4      233                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89      143       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     4      233                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  89      143       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     4      233                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  89      144       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      234                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  89      145       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      234                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  89      145       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      234                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89      146       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      234                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89      147       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      234                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  89      147       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      234                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  96      148       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      234                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -91  96      149       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      234                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -91  96      149       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      234                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -48  96      150       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      234                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -46  96      151       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      234                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -46  96      151       48    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -54   54e- 1e     4      234                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -46  96      152       50    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     4      236                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  96      153       50    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     4      236                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  96      153       50    0   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     4      236                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      154       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     4      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      155       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     4      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      155       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     4      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      155       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     4      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      155       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     4      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      156       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      157       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      157       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      158       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      158       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      158       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      158       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -51  96      158       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -46   54e- 1e     0      237                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      159       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -58   54e- 1e     2      238                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      160       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -58   54e- 1e     2      238                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      160       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -58   54e- 1e     2      238                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      160       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -58   54e- 1e     2      238                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      160       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -58   54e- 1e     2      238                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  96      161       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -58   54e- 1e     2      238                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  96      162       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -58   54e- 1e     2      238                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  96      162       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -58   54e- 1e     2      238                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  96      162       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -58   54e- 1e     2      238                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -50  96      162       50    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -58   54e- 1e     2      238                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -52  96      162       54    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -48   54e- 1e     2      242                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -93  96      163       54    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -48   54e- 1e     2      242                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      164       56    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     2      244                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      164       56    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     2      244                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      164       56    1   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 6e     2      244                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      164       56    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      245                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      164       56    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      245                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      164       56    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      245                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      165       56    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      245                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      165       56    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      245                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      166       56    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      245                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      167       56    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      245                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      167       56    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      245                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      167       56    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      245                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      167       56    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      245                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      167       56    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      245                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  96      168       56    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      245                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  71      169       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -47   54e- 6e     2      247                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  71      169       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -47   54e- 6e     2      247                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -53  71      170       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -47   54e- 6e     2      247                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  71      170       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      248                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  71      170       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      248                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  71      170       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      248                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -91  71      171       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      248                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  71      172       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      248                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  71      172       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      248                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 18 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  71      173       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      248                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 24 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  71      173       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      248                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 24 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  71      173       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      248                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 24 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  71      174       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      248                                                             [0K
+[0J[2;1H[22m[37m CH  9 ][ Elapsed: 24 s ][ 2020-09-17 13:53 [0K
+[0K[1B BSSID              PWR RXQ  Beacons    #Data, #/s  CH   MB   ENC CIPHER  AUTH ESSID[0K
+[0K[1B D8:47:32:BF:A3:0C  -49  71      174       58    2   9   54e  WPA  TKIP   PSK  TestWiFi                                        [0K
+[0K[1B BSSID              STATION            PWR   Rate    Lost    Frames  Notes  Probes[0K
+[0K[1B D8:47:32:BF:A3:0C  B4:0B:44:70:8B:9A  -50   54e- 1e     2      248                                                             [0K
+[0J
